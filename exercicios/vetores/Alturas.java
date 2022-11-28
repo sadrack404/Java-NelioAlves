@@ -33,8 +33,8 @@ public class Alturas {
             if (p[i].getIdade() < 16){
                 menorDeIdade++;
             }
-
         }
+
         System.out.println("Altura média: :" + mediaAltura);
         System.out.println("Pessoas com menos de 16 anos: " + (menorDeIdade * 100)/ n + "%");
 
