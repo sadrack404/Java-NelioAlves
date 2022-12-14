@@ -1,4 +1,4 @@
-package curso.entities;
+package curso.desafio;
 
 public class Hospede {
     private String name;

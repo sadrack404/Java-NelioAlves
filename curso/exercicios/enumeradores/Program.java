@@ -1,6 +1,6 @@
 package curso.exercicios.enumeradores;
 
-import curso.entities.OrderStatus;
+import curso.desafio.OrderStatus;
 
 import java.util.Date;
 

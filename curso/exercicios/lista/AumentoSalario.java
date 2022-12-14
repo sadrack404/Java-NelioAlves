@@ -1,6 +1,6 @@
 package curso.exercicios.lista;
 
-import curso.entities.Employee;
+import curso.desafio.Employee;
 
 import java.util.ArrayList;
 import java.util.List;

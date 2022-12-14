@@ -1,6 +1,6 @@
 package curso.exercicios.vetores;
 
-import curso.entities.Hospede;
+import curso.desafio.Hospede;
 
 import java.util.Locale;
 import java.util.Scanner;
